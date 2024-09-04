@@ -5,7 +5,7 @@ I'm a passionate Web Developer with a keen interest in creating robust and scala
 ## 🛠️ Tools & Technologies I Use
 
 - **Frontend:** Vue.js, JavaScript, HTML, CSS
-- **Backend:** FastAPI, Django, express.js
+- **Backend:** FastAPI, Django, Express.js
 - **Database:** PostgreSQL, MySQL, SQLite
 - **DevOps:** Docker, CI/CD with GitHub Actions, Vercel
 - **Version Control:** Git, GitHub
@@ -15,9 +15,6 @@ I'm a passionate Web Developer with a keen interest in creating robust and scala
 
 ### EzGrab - Video Downloader -> [Live Site](https://ezgrab.eldivategar.tech)
 A powerful tool for downloading videos from various platforms.
-
-### EzChat - Messaging App
-A real-time chat application with features like voice and video calls, notifications, and more.
 
 ### SkillUpKids -> [Live Site](https://skillupkids.id)
 The first choice platform for parents to develop their child's potential through various activities, courses, and quality content.
