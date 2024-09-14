@@ -25,7 +25,7 @@ The first choice platform for parents to develop their child's potential through
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldivategar&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldivategar&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect
 
