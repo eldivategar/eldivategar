@@ -21,7 +21,7 @@ The first choice platform for parents to develop their child's potential through
 
 ### AI-Powered Applications
 - **Hijaiyah Correction System:** Integrated AI model using transfer learning.
-- **Plant Disease Detection:** AI-driven web application for detecting diseases in potato leaves.
+- **Plant Disease Detection:** AI-driven web application for detecting diseases in potato leaves. [Live Site](https://potadi.ai)
 
 ## 📊 GitHub Stats
 
