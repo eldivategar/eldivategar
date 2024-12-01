@@ -60,6 +60,6 @@ The first choice platform for parents to develop their child's potential through
 
 - [LinkedIn](https://www.linkedin.com/in/eldivategar)
 - [Instagram](https://instagram.com/eldivaa_)
-- [Personal Website](https://eldivategar.tech)
+- [Personal Website](https://www.eldivategar.tech)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!
